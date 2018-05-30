@@ -1,0 +1,70 @@
+route_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+kaunas_bus_3,3,Kauno klinikinė ligoninė - Onkologijos ligoninė,,700,https://www.stops.lt/kaunas/index.html#kaunas/bus/3,0073AC,FFFFFF
+kaunas_bus_6,6,Technikos g. - Garliava,,700,https://www.stops.lt/kaunas/index.html#kaunas/bus/6,0073AC,FFFFFF
+kaunas_bus_6A,6A,Respublikinė Kauno ligoninė - Garliava,,700,https://www.stops.lt/kaunas/index.html#kaunas/bus/6A,0073AC,FFFFFF
+kaunas_bus_6G,6G,Technikos g. - Garliava,,700,https://www.stops.lt/kaunas/index.html#kaunas/bus/6G,0073AC,FFFFFF
+kaunas_bus_13N,13N,Centras - Šiaurės pr.,,700,https://www.stops.lt/kaunas/index.html#kaunas/bus/13N,0073AC,FFFFFF
+kaunas_bus_14N,14N,Centras - Šiaurės pr.,,700,https://www.stops.lt/kaunas/index.html#kaunas/bus/14N,0073AC,FFFFFF
+kaunas_bus_17,17,Romainiai - Neveronių g.,,700,https://www.stops.lt/kaunas/index.html#kaunas/bus/17,0073AC,FFFFFF
+kaunas_bus_17G,17G,Urmas - Kauno klinikinė ligoninė,,700,https://www.stops.lt/kaunas/index.html#kaunas/bus/17G,0073AC,FFFFFF
+kaunas_bus_18,18,Geležinkelio stotis - A. Stulginskio universitetas,,700,https://www.stops.lt/kaunas/index.html#kaunas/bus/18,0073AC,FFFFFF
+kaunas_bus_19,19,Skubios pagalbos centras - Palemono keramika,,700,https://www.stops.lt/kaunas/index.html#kaunas/bus/19,0073AC,FFFFFF
+kaunas_bus_20,20,Partizanų g. - Urmo turgus - Seniava,,700,https://www.stops.lt/kaunas/index.html#kaunas/bus/20,0073AC,FFFFFF
+kaunas_bus_21,21,Kauno pilis - Mega,,700,https://www.stops.lt/kaunas/index.html#kaunas/bus/21,0073AC,FFFFFF
+kaunas_bus_22,22,Geležinkelio stotis - Kauno pilis,,700,https://www.stops.lt/kaunas/index.html#kaunas/bus/22,0073AC,FFFFFF
+kaunas_bus_23,23,Domeikava - Rokai,,700,https://www.stops.lt/kaunas/index.html#kaunas/bus/23,0073AC,FFFFFF
+kaunas_bus_24,24,Kauno pilis - Šiaurės pr.,,700,https://www.stops.lt/kaunas/index.html#kaunas/bus/24,0073AC,FFFFFF
+kaunas_bus_26,26,Kauno pienas (Kitron) - Kazliškiai,,700,https://www.stops.lt/kaunas/index.html#kaunas/bus/26,0073AC,FFFFFF
+kaunas_bus_27G,27G,Kauno klinikinė ligoninė - Onkologijos ligoninė,,700,https://www.stops.lt/kaunas/index.html#kaunas/bus/27G,0073AC,FFFFFF
+kaunas_bus_28,28,Urmo turgus (Partizanų g.) - Švenčionių g.,,700,https://www.stops.lt/kaunas/index.html#kaunas/bus/28,0073AC,FFFFFF
+kaunas_bus_29,29,Kauno oro uostas - Geležinkelio stotis,,700,https://www.stops.lt/kaunas/index.html#kaunas/bus/29,0073AC,FFFFFF
+kaunas_bus_31,31,Technikumo g. - S. Dariaus ir S. Girėno g. - Mega,,700,https://www.stops.lt/kaunas/index.html#kaunas/bus/31,0073AC,FFFFFF
+kaunas_bus_31A,31A,Technikumo g. - S. Dariaus ir S. Girėno g. - Kauno pilis,,700,https://www.stops.lt/kaunas/index.html#kaunas/bus/31A,0073AC,FFFFFF
+kaunas_bus_32,32,Geležinkelio stotis -  Ringaudai,,700,https://www.stops.lt/kaunas/index.html#kaunas/bus/32,0073AC,FFFFFF
+kaunas_bus_33,33,Technikos g. - Biruliškių g.,,700,https://www.stops.lt/kaunas/index.html#kaunas/bus/33,0073AC,FFFFFF
+kaunas_bus_34,34,Kauno klinikinė ligoninė - Prancūzų g.,,700,https://www.stops.lt/kaunas/index.html#kaunas/bus/34,0073AC,FFFFFF
+kaunas_bus_35,35,Vytėnai - Prezidento V. Adamkaus gimnazija,,700,https://www.stops.lt/kaunas/index.html#kaunas/bus/35,0073AC,FFFFFF
+kaunas_bus_35A,35A,Vilniaus g. - Prezidento V. Adamkaus gimnazija,,700,https://www.stops.lt/kaunas/index.html#kaunas/bus/35A,0073AC,FFFFFF
+kaunas_bus_36,36,Prūsų g. - Technikos g.,,700,https://www.stops.lt/kaunas/index.html#kaunas/bus/36,0073AC,FFFFFF
+kaunas_bus_37,37,Juozo Grušo meno gimnazija - Partizanų g. (Kauno termofikacijos elektrinė),,700,https://www.stops.lt/kaunas/index.html#kaunas/bus/37,0073AC,FFFFFF
+kaunas_bus_37N,37N,Kauno klinikinė ligoninė - Partizanų g.,,700,https://www.stops.lt/kaunas/index.html#kaunas/bus/37N,0073AC,FFFFFF
+kaunas_bus_38,38,Geležinkelio stotis - Mega,,700,https://www.stops.lt/kaunas/index.html#kaunas/bus/38,0073AC,FFFFFF
+kaunas_bus_39,39,Romainiai - Kauno klinikinė ligoninė - Neveronių g. (Neveronys),,700,https://www.stops.lt/kaunas/index.html#kaunas/bus/39,0073AC,FFFFFF
+kaunas_bus_40,40,Urmo turgus (Partizanų g.) - Kauno klinikinė ligoninė,,700,https://www.stops.lt/kaunas/index.html#kaunas/bus/40,0073AC,FFFFFF
+kaunas_bus_41,41,Chemijos g. - Kaniūkai,,700,https://www.stops.lt/kaunas/index.html#kaunas/bus/41,0073AC,FFFFFF
+kaunas_bus_42,42,Technikumo g. - Respublikinė Kauno ligoninė,,700,https://www.stops.lt/kaunas/index.html#kaunas/bus/42,0073AC,FFFFFF
+kaunas_bus_43,43,Vičiūnai (Slaugos ligoninė) - Kauno pienas,,700,https://www.stops.lt/kaunas/index.html#kaunas/bus/43,0073AC,FFFFFF
+kaunas_bus_44,44,Kauno pilis - Liucijanavos g.,,700,https://www.stops.lt/kaunas/index.html#kaunas/bus/44,0073AC,FFFFFF
+kaunas_bus_45,45,Respublikinė Kauno ligoninė - Palemonas,,700,https://www.stops.lt/kaunas/index.html#kaunas/bus/45,0073AC,FFFFFF
+kaunas_bus_46,46,Šlienava (Žiegždriai) - Geležinkelio stotis,,700,https://www.stops.lt/kaunas/index.html#kaunas/bus/46,0073AC,FFFFFF
+kaunas_bus_46M,46M,Onkologijos ligoninė - Girionys,,700,https://www.stops.lt/kaunas/index.html#kaunas/bus/46M,0073AC,FFFFFF
+kaunas_bus_47,47,Kleboniškis - Onkologijos ligoninė (Kreidos g.),,700,https://www.stops.lt/kaunas/index.html#kaunas/bus/47,0073AC,FFFFFF
+kaunas_bus_47M,47M,Kleboniškis - Kalniečiai,,700,https://www.stops.lt/kaunas/index.html#kaunas/bus/47M,0073AC,FFFFFF
+kaunas_bus_48,48,Raudondvaris - Kauno pilis,,700,https://www.stops.lt/kaunas/index.html#kaunas/bus/48,0073AC,FFFFFF
+kaunas_bus_49,49,Kauno pilis - Lampėdžiai,,700,https://www.stops.lt/kaunas/index.html#kaunas/bus/49,0073AC,FFFFFF
+kaunas_bus_61,61,Geležinkelio stotis (Vainatrakio kapinės) - Girininkai,,700,https://www.stops.lt/kaunas/index.html#kaunas/bus/61,0073AC,FFFFFF
+kaunas_bus_63,63,Kaniūkai - Mega,,700,https://www.stops.lt/kaunas/index.html#kaunas/bus/63,0073AC,FFFFFF
+kaunas_bus_65,65,Kazliškiai - Bitininkų g. - Geležinkelio stotis,,700,https://www.stops.lt/kaunas/index.html#kaunas/bus/65,0073AC,FFFFFF
+kaunas_bus_65A,65A,Prezidento V. Adamkaus gimnazija - Geležinkelio stotis,,700,https://www.stops.lt/kaunas/index.html#kaunas/bus/65A,0073AC,FFFFFF
+kaunas_minibus_51,51,Urmo turgus - Tirkiliškiai,,1501,https://www.stops.lt/kaunas/index.html#kaunas/minibus/51,7F237E,FFFFFF
+kaunas_minibus_52,52,Romainiai - Vaišvydava,,1501,https://www.stops.lt/kaunas/index.html#kaunas/minibus/52,7F237E,FFFFFF
+kaunas_minibus_53,53,Partizanų g. - Rokai,,1501,https://www.stops.lt/kaunas/index.html#kaunas/minibus/53,7F237E,FFFFFF
+kaunas_minibus_54,54,Sargėnai - Plento g.,,1501,https://www.stops.lt/kaunas/index.html#kaunas/minibus/54,7F237E,FFFFFF
+kaunas_minibus_55,55,Kauno klinikinė ligoninė - Palemonas,,1501,https://www.stops.lt/kaunas/index.html#kaunas/minibus/55,7F237E,FFFFFF
+kaunas_minibus_56,56,Ringaudai - Neveronys,,1501,https://www.stops.lt/kaunas/index.html#kaunas/minibus/56,7F237E,FFFFFF
+kaunas_minibus_57,57,Urmo turgus - Partizanų g. - 9-ojo forto g.,,1501,https://www.stops.lt/kaunas/index.html#kaunas/minibus/57,7F237E,FFFFFF
+kaunas_trol_1,1,Islandijos pl. - Vaidoto g.,,800,https://www.stops.lt/kaunas/index.html#kaunas/trol/1,DC3131,FFFFFF
+kaunas_trol_2,2,Islandijos pl. - Parodos G. - Kauno pilis,,800,https://www.stops.lt/kaunas/index.html#kaunas/trol/2,DC3131,FFFFFF
+kaunas_trol_4,4,Islandijos pl. - Vaidoto g.,,800,https://www.stops.lt/kaunas/index.html#kaunas/trol/4,DC3131,FFFFFF
+kaunas_trol_5,5,Petrašiūnai - Varnių g.,,800,https://www.stops.lt/kaunas/index.html#kaunas/trol/5,DC3131,FFFFFF
+kaunas_trol_7,7,Partizanų g. - Kaniūkai,,800,https://www.stops.lt/kaunas/index.html#kaunas/trol/7,DC3131,FFFFFF
+kaunas_trol_8,8,Draugystės g. - Varnių g.,,800,https://www.stops.lt/kaunas/index.html#kaunas/trol/8,DC3131,FFFFFF
+kaunas_trol_9,9,Petrašiūnai (Kauno Marios)- Klinikos,,800,https://www.stops.lt/kaunas/index.html#kaunas/trol/9,DC3131,FFFFFF
+kaunas_trol_10,10,Partizanų g. - Kėdainių g.,,800,https://www.stops.lt/kaunas/index.html#kaunas/trol/10,DC3131,FFFFFF
+kaunas_trol_10A,10A,Partizanų g. - Kauno pilis,,800,https://www.stops.lt/kaunas/index.html#kaunas/trol/10A,DC3131,FFFFFF
+kaunas_trol_11,11,Islandijos pl. - Kaniūkai,,800,https://www.stops.lt/kaunas/index.html#kaunas/trol/11,DC3131,FFFFFF
+kaunas_trol_12,12,Petrašiūnai  (Kauno Marios) - Klinikos,,800,https://www.stops.lt/kaunas/index.html#kaunas/trol/12,DC3131,FFFFFF
+kaunas_trol_13,13,S. Žukausko g. - Centras,,800,https://www.stops.lt/kaunas/index.html#kaunas/trol/13,DC3131,FFFFFF
+kaunas_trol_14,14,S. Žukausko g. - Centras,,800,https://www.stops.lt/kaunas/index.html#kaunas/trol/14,DC3131,FFFFFF
+kaunas_trol_15,15,Partizanų g. - Centras,,800,https://www.stops.lt/kaunas/index.html#kaunas/trol/15,DC3131,FFFFFF
+kaunas_trol_16,16,Partizanų g. - Centras,,800,https://www.stops.lt/kaunas/index.html#kaunas/trol/16,DC3131,FFFFFF
