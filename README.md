@@ -1,5 +1,6 @@
 # KaunoAutobusai
-GTFS duomenys iš Kauno Autobusų
+GTFS duomenys iš Kauno Autobusų, .csv failai įkelti 2018-05-30. 
+Pilnas duomenų rinkinys gtfs.zip faile.
 
-Naujausi duomenys(txt/csv):
+Nuolat atnaujinami duomenys(txt/csv):
 https://www.stops.lt/kaunas/kaunas/gtfs.zip
